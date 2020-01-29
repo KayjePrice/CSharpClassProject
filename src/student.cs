@@ -1,5 +1,5 @@
 using System;
-namespace src
+namespace Kristin.CodeLou.ExerciseProject.Classes
 {
     public class Student
     {

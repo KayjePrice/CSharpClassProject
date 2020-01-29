@@ -1,0 +1,11 @@
+C:\Users\kayje\Desktop\myprojects\CSharpClassProject\src\obj\Debug\netcoreapp3.1\Kristin.CodeLou.ExerciseProject.csprojAssemblyReference.cache
+C:\Users\kayje\Desktop\myprojects\CSharpClassProject\src\obj\Debug\netcoreapp3.1\Kristin.CodeLou.ExerciseProject.AssemblyInfoInputs.cache
+C:\Users\kayje\Desktop\myprojects\CSharpClassProject\src\obj\Debug\netcoreapp3.1\Kristin.CodeLou.ExerciseProject.AssemblyInfo.cs
+C:\Users\kayje\Desktop\myprojects\CSharpClassProject\src\bin\Debug\netcoreapp3.1\Kristin.CodeLou.ExerciseProject.exe
+C:\Users\kayje\Desktop\myprojects\CSharpClassProject\src\bin\Debug\netcoreapp3.1\Kristin.CodeLou.ExerciseProject.deps.json
+C:\Users\kayje\Desktop\myprojects\CSharpClassProject\src\bin\Debug\netcoreapp3.1\Kristin.CodeLou.ExerciseProject.runtimeconfig.json
+C:\Users\kayje\Desktop\myprojects\CSharpClassProject\src\bin\Debug\netcoreapp3.1\Kristin.CodeLou.ExerciseProject.runtimeconfig.dev.json
+C:\Users\kayje\Desktop\myprojects\CSharpClassProject\src\bin\Debug\netcoreapp3.1\Kristin.CodeLou.ExerciseProject.dll
+C:\Users\kayje\Desktop\myprojects\CSharpClassProject\src\bin\Debug\netcoreapp3.1\Kristin.CodeLou.ExerciseProject.pdb
+C:\Users\kayje\Desktop\myprojects\CSharpClassProject\src\obj\Debug\netcoreapp3.1\Kristin.CodeLou.ExerciseProject.dll
+C:\Users\kayje\Desktop\myprojects\CSharpClassProject\src\obj\Debug\netcoreapp3.1\Kristin.CodeLou.ExerciseProject.pdb
